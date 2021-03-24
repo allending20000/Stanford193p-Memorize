@@ -12,5 +12,6 @@ I also added multiple themes to the game as well as a point system.
 <li>Reactive UI (@Published, @ObservedObject)</li>
 <li>Drawing Custom Shapes</li> 
 </ul>
+
 ## Picture
 ![](https://github.com/allending20000/Stanford193p-Memorize/blob/main/Screen%20Shot%202021-03-24%20at%203.41.35%20AM.png)
