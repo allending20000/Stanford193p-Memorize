@@ -6,6 +6,8 @@ I also added multiple themes to the game as well as a point system.
 <ul>
 <li>Basic Swift syntax</li>
 <li>SwiftUI Views</li>
+<li>MVVM design</li>
 <li>View Builder, View Modifiers</li>
-<li>Animations</li>
+<li>Implicit and Explicit Animations</li>
+<li>Reactive UI (@Published, @ObservedObject)</li>
 </ul>
