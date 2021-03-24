@@ -10,4 +10,5 @@ I also added multiple themes to the game as well as a point system.
 <li>View Builder, View Modifiers</li>
 <li>Implicit and Explicit Animations</li>
 <li>Reactive UI (@Published, @ObservedObject)</li>
+<li>Drawing Custom Shapes</li> 
 </ul>
